@@ -15,8 +15,6 @@ def gross_for_director(director_data)
   director_grosses
 end
 
-# Write a method that, given an NDS, creates a new Hash
-# The return value should be like: { directorOne => allTheMoneyTheyMade, ... }
 
 def directors_totals(nds)
  result = {}
